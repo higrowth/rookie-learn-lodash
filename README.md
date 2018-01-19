@@ -9,7 +9,7 @@
 lodash是一个实用的JavaScript库，其中很多工具函数在开发中很常用。希望通过研究lodash的源码，能对个人技术发展有所帮助。
 
 ## 提纲
-  按照官方API顺序学习。
+  按照官方API顺序学习，额外增加源码中使用的工具函数。
 
 * <a href="./Array.md">`Array`</a>
 * <a href="./Collection.md">`Collection`</a>
@@ -24,6 +24,7 @@ lodash是一个实用的JavaScript库，其中很多工具函数在开发中很�
 * <a href="./Util.md">`Util`</a>
 * <a href="./Properties.md">`Properties`</a>
 * <a href="./Methods.md">`Methods`</a>
+* <a href="./Tool.md">`Tool`</a>
 
 ## 说明
 
